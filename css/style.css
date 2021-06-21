@@ -1,0 +1,36 @@
+body {
+  font-family: helvetica, sans-serif;
+  background: #aaeabb;
+}
+
+.h3 {
+  font-family: 'Open Sans Bold',Helvetica,Arial,sans-serif;
+  color: #000000;
+  font-size:14px;
+}
+
+.form-data {
+  display: table-row;
+}
+
+.form {
+  display: table-row;
+  padding: 10px
+}
+
+label, input {
+  display: table-cell;
+
+}
+label {
+  padding-right: 10px;
+}
+.footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 100px;
+}
